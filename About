@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claudine Arcigal Cordova</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info, .section {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Claudine Arcigal Cordova</h1>
+        <div class="contact-info">
+            <p><strong>Contact No.:</strong> +63 917 186 4188</p>
+            <p><strong>Email:</strong> <a href="mailto:cordovaclaudine@gmail.com">cordovaclaudine@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cloudzzzz/" target="_blank">linkedin.com/in/cloudzzzz</a></p>
+            <p><strong>Address:</strong> R. Lagmay, San Juan, Metro Manila, Philippines</p>
+        </div>
+
+        <div class="section">
+            <h2>Career Objective</h2>
+            <p>Highly motivated professional with a strong work ethic and extensive experience across various technologies. Demonstrated ability to rapidly acquire new skills and adapt to evolving environments.</p>
+        </div>
+
+        <div class="section">
+            <h2>Skills & Expertise</h2>
+            <ul>
+                <li>Quickly adapts to new situations and changes</li>
+                <li>Provides excellent customer support worldwide</li>
+                <li>Project and team management</li>
+                <li>Information Security (NIST Guidelines, Data Protection)</li>
+                <li>Microsoft Office Suite & Google Workspace</li>
+                <li>Networking (Cisco, LAN/WAN, Virtual Networking)</li>
+                <li>Basic Linux Command Line, SQL, Python</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Bachelor of Science in Mathematics</strong> – Technological Institute of the Philippines (2022 – 2023)</p>
+            <p><strong>Accounting Technology</strong> – National College of Business and Arts (2015 – 2018)</p>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <h3>Project Officer (Volunteer) – Ocean and Climatic Research Institute (Nov 2024 – Present)</h3>
+            <ul>
+                <li>Planning, executing, and monitoring research projects.</li>
+                <li>Providing scientific guidance to policymakers.</li>
+                <li>Building relationships with research institutions and NGOs.</li>
+            </ul>
+
+            <h3>Account Coordinator (Contractual) – Home Health Care Placement Inc. (Oct 2024 – Present)</h3>
+            <ul>
+                <li>Handles HR concerns for deployed staff.</li>
+                <li>Maintains strong client relationships and ensures compliance.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Google Cybersecurity Professional Certificate (Oct 2024)</li>
+                <li>Certified in Cybersecurity – ISC2 (Oct 2024)</li>
+                <li>Introduction to Cybersecurity – Cisco Networking Academy (Feb 2024)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
